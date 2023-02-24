@@ -1,7 +1,8 @@
 <p align="center">
     Project Real state scrapping data<br>
     it is a Web scrapping data i build to get data about house to rent/sale this a project building with Java and Selenium to get data from webSite abd putting the data in excel file
-    <br><table>
+    <table>
+    <tbody>
     <thead>
         <tr>
             <th align="center">
@@ -18,14 +19,6 @@
                     </small>
                 </p>
             </th>
-            <th align="left">
-                <img width="140" height="1">
-                <p align="left"> 
-                    <small>
-                    RELEASE DATE
-                    </small>
-                </p>
-            </th>
             <th align="center">
                 <img width="201" height="1">
                 <p align="center"> 
@@ -39,46 +32,22 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">Music Player </a></td>
-            <td>11/01/23</td>
+            <td><a href="01">settings screen</a></td>
             <td align="center">
             <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/01.png" /></a></td>
         </tr>
-        <tr>
+          <tr>
             <td>02</td>
-            <td><a href="02">Product Card</a></td>
-            <td>18/01/23</td>
-            <td align="center"><a href="02"><img width="300px" src="02/.github/preview.jpg" /></a></td>
+            <td><a href="01">start scrapping</a></td>
+            <td align="center">
+            <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/02.png" /></a></td>
         </tr>
-        <tr>
+         <tr>
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
-            <td>25/01/23</td>
-            <td align="center"><a href="03"><img width="300px" src="03/.github/preview.jpg" /></a></td>
+            <td><a href="01">generate report on .xls file</a></td>
+            <td align="center">
+            <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/03.png" /></a></td>
         </tr>
-        <tr>
-            <td>04</td>
-            <td><a href="04">Chat</a></td>
-            <td>01/02/23</td>
-            <td align="center"><a href="04"><img width="300px" src="04/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>05</td>
-            <td><a href="05">Calculadora</a></td>
-            <td>08/02/23</td>
-            <td align="center"><a href="05"><img width="300px" src="05/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>06</td>
-            <td><a href="06">Cartão de embarque</a></td>
-            <td>15/02/23</td>
-            <td align="center" ><a href="06"><img width="300px" src="06/.github/preview.jpg" /></a></td>
-        </tr>
-        <tr>
-            <td>07</td>
-            <td><a href="07">Site para encontrar seu bloco no carnaval</a></td>
-            <td>22/02/23</td>
-            <td align="center" ><a href="07"><img width="300px" src="07/.github/preview.jpg" /></a></td>
-        </tr>
-    </tbody>
+       
+  </tbody>
 </table></p>
