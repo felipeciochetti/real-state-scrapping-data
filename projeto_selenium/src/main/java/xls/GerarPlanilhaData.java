@@ -31,7 +31,7 @@ public class GerarPlanilhaData  extends GerarPlanilha{
 			Parameters.getInstance().setLog("starting building file.....");
 			
 			workbook = new XSSFWorkbook();
-			sheet = workbook.createSheet("Inspenção");
+			sheet = workbook.createSheet("Inspection");
 
 			createStyles();
 
