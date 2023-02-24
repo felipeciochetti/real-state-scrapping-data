@@ -31,7 +31,7 @@ public class Screen {
 		// Setting the width and height of frame
 		frame.pack();
 		frame.setLocationRelativeTo(null);  
-		frame.setSize(350, 350);
+		frame.setSize(500, 500);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 
@@ -95,7 +95,7 @@ public class Screen {
 		panel.add(pathLabel);
 
 		JLabel pathLabelTwo = new JLabel(Parameters.getInstance().getPath_xls());
-		pathLabelTwo.setBounds(120,80,170,25);
+		pathLabelTwo.setBounds(120,80,400,25);
 		panel.add(pathLabelTwo);
 
 
@@ -131,7 +131,7 @@ public class Screen {
 
 
 		logTextArea = new JTextArea("");
-		logTextArea.setBounds(10, 40, 300, 200);
+		logTextArea.setBounds(10, 40, 500, 500);
 		panel.add(logTextArea);
 
 

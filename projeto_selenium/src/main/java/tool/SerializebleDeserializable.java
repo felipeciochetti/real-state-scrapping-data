@@ -59,7 +59,7 @@ public class SerializebleDeserializable {
 			File f = new File(nomeArquivo + File.separator + "settings.ser") ;
 			if(!f.exists()){
 				Parameters p = new Parameters();
-				p.setChrome(nomeArquivo +  File.separator +  "chromedriver.exe");
+				p.setChrome(nomeArquivo +  File.separator +  "chromedriver");
 				p.setPath_settings(nomeArquivo);
 				p.setPath_xls(nomeArquivo.replace("settings", "file"));
 				p.setLogin("pehomebuyers@gmail.com");

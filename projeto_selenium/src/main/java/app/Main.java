@@ -6,7 +6,7 @@ import tool.SerializebleDeserializable;
 
 public class Main {
 
-	private static final String path_One = "D:\\emulator\\settings"; 
+	private static final String path_One = "/Users/luizciochetti/realstate"; 
 	private static final String path_Two = "C:\\emulator\\settings"; 
 	
 	
