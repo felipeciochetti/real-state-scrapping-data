@@ -32,19 +32,19 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">settings screen</a></td>
+            <td>settings screen</td>
             <td align="center">
             <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/01.png" /></a></td>
         </tr>
           <tr>
             <td>02</td>
-            <td><a href="01">start scrapping</a></td>
+            <td>start scrapping</td>
             <td align="center">
             <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/02.png" /></a></td>
         </tr>
          <tr>
             <td>03</td>
-            <td><a href="01">generate report on .xls file</a></td>
+            <td>generate report on .xls file</td>
             <td align="center">
             <a href="01"><img width="300px" src="projeto_selenium/src/main/resource/03.png" /></a></td>
         </tr>
